@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# React Typescript Basic
+
+Basic props, event props, and advanced props
+
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
